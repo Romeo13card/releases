@@ -30,7 +30,7 @@
 
 ```bash
 # Boot temporarily
-fastboot boot recovery.img
+fastboot boot recovery.img(or another name img files)
 
 # Install permanently
 fastboot flash recovery recovery.img
