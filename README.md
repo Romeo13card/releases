@@ -1,2 +1,2 @@
 # Releases
-This repo for PBRP releases
+This repo for Recovery releases
