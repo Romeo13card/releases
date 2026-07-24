@@ -21,8 +21,8 @@
 |--|----------|---------|------|------|
 | 🟣 | **PBRP** | **v4.0** Official | 2025-12-18 | [Official Page](https://pitchblackrecovery.com/fog/) |
 | 🔶 | **OrangeFox** | **R12.0_1** | 2026-23-07 | [Release](https://github.com/Romeo13card/releases/releases/tag/OFRP-R12.0) |
-| 🟠 | **TWRP** | **3.7.1** | 2024-12-02 | [Release](https://github.com/Romeo13card/releases/releases/tag/TWRP-FOG) |
-| 🟡 | **TWRP** | 3.6.1 | 2024-12-02 | [Release](https://github.com/Romeo13card/releases/releases/tag/twrp-3.6.1-fog) |
+| 🟠 | **TWRP** | **3.7.1** | 2025-21-07 | [Release](https://github.com/Romeo13card/releases/releases/tag/TWRP-FOG) |
+| 🟡 | **TWRP** | 3.6.1 | 2025-21-07 | [Release](https://github.com/Romeo13card/releases/releases/tag/twrp-3.6.1-fog) |
 
 ---
 
